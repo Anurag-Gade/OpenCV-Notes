@@ -1,1 +1,3 @@
 # OpenCV-Notes
+
+In Progress...
