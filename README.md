@@ -21,3 +21,4 @@ And that's it!
 1) Udemy - Python for Computer Vision with OpenCV and Deep Learning
 2) Learning OpenCV - Gary Bradski and Adrian Kaehler (O'Reilly)
 3) OpenCV - Python Tutorial by Geeks for Geeks
+-----------------------
