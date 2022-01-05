@@ -23,3 +23,4 @@ And that's it!
 3) OpenCV - Python Tutorial by Geeks for Geeks
 -----------------------
 
+PS: Until Object Detection - Part 1, I have made the documentation on Google Colab, along with snippets of my Jupyter kernel wherever Colab was giving me issues. From Object Detection - Part 2, I will make the documentation entirely on Jupyter Notebook.
