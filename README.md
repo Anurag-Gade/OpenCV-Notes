@@ -26,7 +26,7 @@ This repository would be an attempt for one to acquire a basic command of OpenCV
 **Prerequisites**
 -----------------------
 1) A decent grasp of Python
-2) Understanding of Deep Learning (Only for Sections x and y)
+2) Understanding of Deep Learning (Only for Sections 10 and 11)
 
 And that's it!
 
