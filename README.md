@@ -35,6 +35,7 @@ And that's it!
 1) Udemy - Python for Computer Vision with OpenCV and Deep Learning
 2) Learning OpenCV - Gary Bradski and Adrian Kaehler (O'Reilly)
 3) OpenCV - Python Tutorial by Geeks for Geeks
+4) <a href="http://www.labbookpages.co.uk/index.html">The Lab Book Pages</a>
 -----------------------
 
 PS: Until Object Detection - Part 1, I have made the documentation on Google Colab, along with snippets of my Jupyter kernel wherever Colab was giving me issues. From Object Detection - Part 2, I will make the documentation entirely on Jupyter Notebook, as by doing so, won't give difficulty in using the code, as one can directly copy the code from the kernel.
