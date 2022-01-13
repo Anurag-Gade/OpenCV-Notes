@@ -14,7 +14,7 @@ This repository would be an attempt for one to acquire a basic command of OpenCV
 4) <a href="https://github.com/Anurag-Gade/OpenCV-Notes/blob/main/Video_and_OpenCV.ipynb">Video and OpenCV</a>
 5) <a href="https://github.com/Anurag-Gade/OpenCV-Notes/blob/main/Object_Detection_(Part_1).ipynb">Object Detection (Part 1)</a>
 6) <a href="https://github.com/Anurag-Gade/OpenCV-Notes/blob/main/Object%20Detection%20(Part%202).ipynb">Object Detection (Part 2)</a>
-7) Object Detection (Part 3)
+7) <a href="https://github.com/Anurag-Gade/OpenCV-Notes/blob/main/Object%20Detection%20(Part%203).ipynb">Object Detection (Part 3)</a>
 8) Face Detection
 9) Object Tracking
 10) Deep Learning with OpenCV
